@@ -26,8 +26,8 @@ libtorch 1.7
 ```
 
 ## More Information
-[wuzuowuyou/CRNN_Chinese_Characters_res18_senet](https://github.com/wuzuowuyou/CRNN_Chinese_Characters_res18_senet)
-[wuzuowuyou/crnn_libtorch](https://github.com/wuzuowuyou/crnn_libtorch)
-[wuzuowuyou/tensorRT_CRNN](https://github.com/wuzuowuyou/tensorRT_CRNN)
-[wang-xinyu/tensorrtx](https://github.com/wang-xinyu/tensorrtx)
+[wuzuowuyou/CRNN_Chinese_Characters_res18_senet](https://github.com/wuzuowuyou/CRNN_Chinese_Characters_res18_senet)  
+[wuzuowuyou/crnn_libtorch](https://github.com/wuzuowuyou/crnn_libtorch)  
+[wuzuowuyou/tensorRT_CRNN](https://github.com/wuzuowuyou/tensorRT_CRNN)  
+[wang-xinyu/tensorrtx](https://github.com/wang-xinyu/tensorrtx)  
 If this repository helps you，please star it. Thanks.
